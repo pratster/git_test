@@ -7,3 +7,4 @@
 # Now this should work
 # Lets clean this up a bit
 # Test
+# Testing the log
