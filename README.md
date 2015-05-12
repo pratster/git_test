@@ -8,3 +8,4 @@
 # Lets clean this up a bit
 # Test
 # Testing the log
+# Display git log in sos log
