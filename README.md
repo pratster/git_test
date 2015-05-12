@@ -9,3 +9,4 @@
 # Test
 # Testing the log
 # Display git log in sos log
+# Display the damn log already
