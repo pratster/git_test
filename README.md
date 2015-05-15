@@ -12,3 +12,4 @@
 # Display the damn log already
 # Display log works
 # Test all 3 features
+# Testing wrapper script
